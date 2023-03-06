@@ -3,4 +3,5 @@
 Hello, this study contains Z decay to electron and positron. 
 Details coming...
 
-We will talk about what is elementary particle and what is Z, what does decay means and about that analysis.
+We studied Z particle decay to electron and positron. We generated events simulation on Comphep and made hadronization with Delphes. Finally wrote a code to analyze it. You can find the code "Analysis.C"
+
